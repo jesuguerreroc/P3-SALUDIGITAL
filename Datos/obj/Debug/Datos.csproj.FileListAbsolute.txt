@@ -1,0 +1,132 @@
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Datos.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Datos.pdb
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Buffers.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Memory.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Buffers.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Memory.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\obj\Debug\Datos.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Datos\obj\Debug\Datos.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Datos.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Datos.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Buffers.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Memory.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Buffers.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Memory.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\obj\Debug\Datos.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Datos\obj\Debug\Datos.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Datos.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Datos.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Entidades.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Buffers.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Memory.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Entidades.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Buffers.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Memory.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\obj\Debug\Datos.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\Datos\obj\Debug\Datos.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Datos.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Datos.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Entidades.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Buffers.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Memory.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Entidades.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Buffers.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Memory.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\obj\Debug\Datos.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\Datos\obj\Debug\Datos.pdb

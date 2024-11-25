@@ -1,0 +1,224 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salud Digital - Login</title>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --error-color: #e74c3c;
+            --success-color: #2ecc71;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .login-container {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .login-header p {
+        color: var(--text-color);
+        font-size: 1rem;
+        margin-top: 0.5rem;
+        }
+        .login-logo {
+            width: 180px; /* O el tamaño que prefieras */
+            height: auto;
+            margin-bottom: 1rem;
+            object-fit: contain;
+        }
+
+            .login-header h1 {
+                color: var(--primary-color);
+                font-size: 2rem;
+                margin-bottom: 0.5rem;
+            }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 0.5rem;
+                color: #555;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 0.8rem;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                font-size: 1rem;
+                transition: border-color 0.3s;
+            }
+
+                .form-group input:focus {
+                    border-color: var(--primary-color);
+                    outline: none;
+                }
+
+        .btn {
+            width: 100%;
+            padding: 1rem;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+            .btn:hover {
+                background: #2980b9;
+            }
+
+        .message {
+            padding: 0.75rem;
+            border-radius: 4px;
+            margin-bottom: 1rem;
+            display: none;
+        }
+
+        #errorMessage {
+            background-color: #fde8e8;
+            color: var(--error-color);
+            border: 1px solid #fbd5d5;
+        }
+
+        #successMessage {
+            background-color: #def7ec;
+            color: var(--success-color);
+            border: 1px solid #bcf0da;
+        }
+        .form-toggle {
+            text-align: center;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ddd;
+        }
+
+            .form-toggle button {
+                background: none;
+                border: none;
+                color: var(--primary-color);
+                cursor: pointer;
+                font-size: 0.9rem;
+                text-decoration: underline;
+            }
+
+                .form-toggle button:hover {
+                    color: #2980b9;
+                }
+
+        .form-container {
+            display: none;
+        }
+
+            .form-container.active {
+                display: block;
+            }
+
+        .password-requirements {
+            font-size: 0.8rem;
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        .form-title {
+            text-align: center;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <!-- Formulario de Login -->
+
+        <div class="login-header">
+            <img src="/src/logo.png" alt="Salud Digital Logo" class="login-logo">
+            <p id="formDescription">Ingrese sus credenciales</p>
+        </div>
+        <div id="sisas" class="form-container active">
+            <form id="loginForm" class="form-group">
+                <div class="message" id="errorMessage"></div>
+                <div class="message" id="successMessage"></div>
+                <div class="form-group">
+                    <label for="username">Usuario</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Contraseña</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="btn">Iniciar Sesión</button>
+            </form>
+            <div class="form-toggle">
+                <button type="button" onclick="toggleForm('register')">
+                    ¿No tienes cuenta? Regístrate aquí
+                </button>
+            </div>
+        </div>
+
+        <!-- Formulario de Registro -->
+        <div id="registerForm" class="form-container">
+            <div class="form-group">
+                <label for="regNombres">Nombres</label>
+                <input type="text" id="regNombres" required>
+            </div>
+            <div class="form-group">
+                <label for="regApellidos">Apellidos</label>
+                <input type="text" id="regApellidos" required>
+            </div>
+            <div class="form-group">
+                <label for="regUsername">Nombre de Usuario</label>
+                <input type="text" id="regUsername" required>
+            </div>
+            <div class="form-group">
+                <label for="regPassword">Contraseña</label>
+                <input type="password" id="regPassword" required>
+                <div class="password-requirements">
+                    La contraseña debe tener al menos 6 caracteres
+                </div>
+            </div>
+            <button type="button" class="btn" onclick="registrarUsuario()">Registrarse</button>
+
+            <div class="form-toggle">
+                <button type="button" onclick="toggleForm('login')">
+                    ¿Ya tienes cuenta? Inicia sesión aquí
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/sessionService.js"></script>
+    <script src="/js/auth.js"></script>
+    <script src="/js/login.js"></script>
+</body>
+</html>

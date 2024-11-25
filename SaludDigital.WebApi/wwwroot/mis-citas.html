@@ -1,0 +1,341 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Citas - Salud Digital</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2ecc71;
+            --warning-color: #f1c40f;
+            --danger-color: #e74c3c;
+            --background-color: #f5f7fa;
+            --text-color: #2c3e50;
+            --border-color: #ddd;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .navbar {
+            background-color: white;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .filters {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            flex: 1;
+            min-width: 200px;
+        }
+
+            .filter-group label {
+                display: block;
+                margin-bottom: 0.5rem;
+                font-weight: 500;
+            }
+
+            .filter-group select, .filter-group input {
+                width: 100%;
+                padding: 0.5rem;
+                border: 1px solid var(--border-color);
+                border-radius: 4px;
+            }
+
+        .citas-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .cita-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+            .cita-card:hover {
+                transform: translateY(-2px);
+            }
+
+        .cita-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .cita-fecha {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: var(--primary-color);
+        }
+
+        .cita-estado {
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+
+        .estado-pendiente {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+
+        .estado-completada {
+            background-color: #d4edda;
+            color: #155724;
+        }
+
+        .estado-cancelada {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+
+        .cita-info {
+            margin: 1rem 0;
+        }
+
+        .cita-info-item {
+            display: flex;
+            margin-bottom: 0.5rem;
+        }
+
+        .cita-label {
+            font-weight: 500;
+            width: 100px;
+            color: #666;
+        }
+
+        .cita-value {
+            flex: 1;
+        }
+        .navbar {
+            background-color: white;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .navbar-logo {
+            height: 40px; /* Ajusta esta altura según el tamaño de tu logo */
+            width: auto;
+            object-fit: contain;
+        }
+        .cita-actions {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            justify-content: flex-end;
+        }
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .user-name {
+            color: #333;
+            font-weight: 500;
+        }
+        .logout-btn {
+            padding: 0.5rem 1rem;
+            background-color: var(--danger-color);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            .logout-btn:hover {
+                background-color: #c0392b;
+            }
+
+        .btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: background-color 0.2s;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .btn-danger {
+            background-color: var(--danger-color);
+            color: white;
+        }
+
+        .no-citas {
+            text-align: center;
+            padding: 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        @media (max-width: 768px) {
+            .filters {
+                flex-direction: column;
+            }
+
+            .filter-group {
+                width: 100%;
+            }
+
+            .cita-card {
+                margin: 1rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="paciente.html" class="navbar-brand">
+            <img src="/src/logo.png" alt="Salud Digital Logo" class="navbar-logo">
+        </a>
+        <div class="user-info">
+            <span class="user-name" id="userName">Cargando...</span>
+            <button class="logout-btn" id="logoutBtn">
+                <i class="fas fa-sign-out-alt"></i> Cerrar Sesión
+            </button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="header">
+            <h1>Mis Citas Médicas</h1>
+            <button class="btn btn-primary" onclick="window.location.href='nueva-cita.html'">
+                <i class="fas fa-plus"></i> Nueva Cita
+            </button>
+        </div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="filterEstado">Estado</label>
+                <select id="filterEstado" class="form-control">
+                    <option value="">Todos los estados</option>
+                    <option value="Pendiente">Pendiente</option>
+                    <option value="Completada">Completada</option>
+                    <option value="Cancelada">Cancelada</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filterFecha">Fecha</label>
+                <input type="date" id="filterFecha" class="form-control">
+            </div>
+            <div class="filter-group">
+                <label for="filterEspecialidad">Especialidad</label>
+                <select id="filterEspecialidad" class="form-control">
+                    <option value="">Todas las especialidades</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="citasContainer" class="citas-grid">
+            <!-- Las citas se cargarán aquí dinámicamente -->
+        </div>
+    </div>
+
+
+    <script src="/js/sessionService.js"></script>
+    <script src="/js/mis-citas.js"></script>
+    <script src="/js/sessionService.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                // Verificar autenticación
+                if (!sessionService.isAuthenticated()) {
+                    window.location.href = '/index.html';
+                    return;
+                }
+
+                // Obtener información del usuario
+                const user = sessionService.getUserInfo();
+
+                // Verificar rol de paciente
+                if (user.rol.idRol !== 21) { // ID del rol paciente
+                    window.location.href = '/index.html';
+                    return;
+                }
+
+                // Actualizar nombre de usuario
+                document.getElementById('userName').textContent = `${user.nombres} ${user.apellidos}`;
+
+                // Configurar botón de logout
+                document.getElementById('logoutBtn').addEventListener('click', () => {
+                    sessionService.clearSession();
+                    window.location.href = '/index.html';
+                });
+
+            } catch (error) {
+                console.error('Error al cargar la información del usuario:', error);
+                alert('Error al cargar la información. Por favor, inicie sesión nuevamente.');
+                sessionService.clearSession();
+                window.location.href = '/index.html';
+            }
+        });
+    </script>
+</body>
+</html>

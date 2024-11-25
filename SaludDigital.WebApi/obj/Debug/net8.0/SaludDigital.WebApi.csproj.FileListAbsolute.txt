@@ -1,0 +1,170 @@
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Web.config
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.staticwebassets.runtime.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.exe
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.deps.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.runtimeconfig.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll.config
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll.config
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfoInputs.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfo.cs
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.sourcelink.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.SaludDigital.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SaludDigital.WebApi.props
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaludDigital.WebApi.props
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaludDigital.WebApi.props
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\scopedcss\bundle\SaludDigital.WebApi.styles.css
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDig.0266439E.Up2Date
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\refint\SaludDigital.WebApi.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.genruntimeconfig.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\ref\SaludDigital.WebApi.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Web.config
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.staticwebassets.runtime.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.exe
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.deps.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.runtimeconfig.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll.config
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll.config
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.AssemblyReference.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfoInputs.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfo.cs
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.sourcelink.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.SaludDigital.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\scopedcss\bundle\SaludDigital.WebApi.styles.css
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDig.0266439E.Up2Date
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\refint\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.genruntimeconfig.cache
+C:\Users\jesug\Desktop\DIFIGAKL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\ref\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Web.config
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.staticwebassets.runtime.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.exe
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.deps.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.runtimeconfig.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Datos.dll.config
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Entidades.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\bin\Debug\net8.0\Logica.dll.config
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.AssemblyReference.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfoInputs.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.AssemblyInfo.cs
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.sourcelink.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.SaludDigital.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaludDigital.WebApi.props
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\scopedcss\bundle\SaludDigital.WebApi.styles.css
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDig.0266439E.Up2Date
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\refint\SaludDigital.WebApi.dll
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.pdb
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\SaludDigital.WebApi.genruntimeconfig.cache
+C:\Users\jesug\Desktop\PROYECTO SALUDIGITAL\saludigital\SaludDigital.WebApi\obj\Debug\net8.0\ref\SaludDigital.WebApi.dll

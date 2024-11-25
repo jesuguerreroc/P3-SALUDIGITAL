@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\apiService.js",
+      "PackagePath": "staticwebassets\\js\\apiService.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\auth.js",
+      "PackagePath": "staticwebassets\\js\\auth.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\cargarCitas.js",
+      "PackagePath": "staticwebassets\\js\\cargarCitas.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\mis-citas.js",
+      "PackagePath": "staticwebassets\\js\\mis-citas.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\nueva-cita.js",
+      "PackagePath": "staticwebassets\\js\\nueva-cita.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\js\\sessionService.js",
+      "PackagePath": "staticwebassets\\js\\sessionService.js"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\mis-citas.html",
+      "PackagePath": "staticwebassets\\mis-citas.html"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\nueva-cita.html",
+      "PackagePath": "staticwebassets\\nueva-cita.html"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\paciente.html",
+      "PackagePath": "staticwebassets\\paciente.html"
+    },
+    {
+      "Id": "C:\\Users\\jesug\\Desktop\\PROYECTO SALUDIGITAL\\saludigital\\SaludDigital.WebApi\\wwwroot\\src\\logo.png",
+      "PackagePath": "staticwebassets\\src\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaludDigital.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SaludDigital.WebApi.props",
+      "PackagePath": "build\\SaludDigital.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SaludDigital.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\SaludDigital.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SaludDigital.WebApi.props",
+      "PackagePath": "buildTransitive\\SaludDigital.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

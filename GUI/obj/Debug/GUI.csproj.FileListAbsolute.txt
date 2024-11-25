@@ -1,0 +1,12 @@
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Citas.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Doctores.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Inicio.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Login.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Menu.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Pacientes.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Registrarse.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\Gui.Reportes.resources
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache

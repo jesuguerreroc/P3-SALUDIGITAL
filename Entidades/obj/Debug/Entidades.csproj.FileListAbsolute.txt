@@ -1,0 +1,12 @@
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\bin\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\obj\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\plata\saludigital\Entidades\obj\Debug\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\bin\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\obj\Debug\Entidades.dll
+C:\Users\josec\OneDrive\Escritorio\knknknk\saludigital\Entidades\obj\Debug\Entidades.pdb
